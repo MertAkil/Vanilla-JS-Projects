@@ -28,4 +28,3 @@ btns.forEach((btn)=>{
     });
 });
 
-console.log(1);
